@@ -19,17 +19,17 @@ projects:
     link: http://47.94.160.159:8080/lcyx/
 
   - icon: book
-    name: 识破并反击PUA技巧
+    name: 书籍名称：识破并反击PUA技巧
     desc: 提供策略来反击PUA行为
     link: https://你的书籍链接
 
   - icon: article
-    name: 识别操纵行为与自我保护策略
+    name: 文章名称：识别操纵行为与自我保护策略
     desc: 文章详细描述
     link: https://你的文章链接
 
   - icon: friend
-    name: 胡凯
+    name: 我的好朋友：胡凯
     desc: 胡凯又高又帅又多金，目前单身。有想法的女生请联系我。
     link: https://你的伙伴链接
 
