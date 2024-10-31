@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "Mr.cc",
     url: "https://mister-hope.com",
   },
 
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "hiep-wjl/my-blog",
 
   docsDir: "src",
 
@@ -31,7 +31,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "一个终极开发大佬",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",

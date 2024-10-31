@@ -4,33 +4,33 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 崔哥的博客
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 我是崔哥我怕谁
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 我的工单
+    desc: 本人的日常工作安排均源自于公司的工单系统，该系统负责分发和管理所有工作指令。
+    link: http://main.hiepsoft.com:8000/
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 我的演示环境
+    desc: 用于给客户讲解系统的网站
+    link: http://47.94.160.159:8080/lcyx/
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
+    name: 识破并反击PUA技巧
+    desc: 提供策略来反击PUA行为
     link: https://你的书籍链接
 
   - icon: article
-    name: 文章名称
+    name: 识别操纵行为与自我保护策略
     desc: 文章详细描述
     link: https://你的文章链接
 
   - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
+    name: 胡凯
+    desc: 胡凯又高又帅又多金，目前单身。有想法的女生请联系我。
     link: https://你的伙伴链接
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg

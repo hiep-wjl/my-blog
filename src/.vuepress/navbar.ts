@@ -49,4 +49,9 @@ export default navbar([
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
   },
+  {
+    text: "GPT",
+    icon: "gpt",
+    link: "https://kimi.moonshot.cn/",
+  },
 ]);
